@@ -3,9 +3,15 @@ require "fileutils"
 require "tmpdir"
 require "digest"
 
+ENV["APPSTORE_USERNAME"] ="AlexIvashchenko@icloud.com"
+ENV["REPO"] ="dmasta88/dmasta88.github.io"
+ENV["GIT_URI"]="https://github.com"
+ENV["SIGNING_CERT"]="iPhone Developer: Alexander Ivashchenko (F8PRBJ38KN)"
+ENV["GITHUB_TOKEN"] ="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"
+
 desc "Generate fresh mobileprovision"
 lane :gen_provision do
-  sigh(adhoc: true, force: true, username: ENV["APPSTORE_USERNAME"], provisioning_name: "Wildcard", app_identifier: "*", filename: "Wildcard.mobileprovision", output_path: "generator/")
+  sigh(force: true, username: ENV["APPSTORE_USERNAME"], provisioning_name: "Wildcard", app_identifier: "guru.premium.*", development: true, filename: "Wildcard.mobileprovision", output_path: "generator/")
 end
 
 desc "Get ipa version, build, bundle id and name"
@@ -225,4 +231,3 @@ lane :update do
     UI.error("Error commiting update. Probably nothing to commit 🤔")
   end 
 end
-

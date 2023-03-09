@@ -6,3 +6,4 @@ generator/
 ipas/
 _floatsignTemp/
 extracted/
+.DS_Store
