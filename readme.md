@@ -6,7 +6,7 @@
 
 - **SBOL** 13.0.2 (11) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/sbol/Info.plist">📲 Download</a>
 
-- **Maple** 600 (119303) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/YandexMusic/Info.plist">📲 Download</a>
+- **Yandex Music** 600 (119303) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/YandexMusic/Info.plist">📲 Download</a>
 
 - **Instagram** 271.1 (449456748) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/RocketInstagram/Info.plist">📲 Download</a>
 
