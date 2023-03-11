@@ -6,7 +6,7 @@
 
 - **SBOL** 13.0.2 (11) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/sbol/Info.plist">📲 Download</a>
 
-- **Yandex Music** 600 (119303) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/YandexMusic/Info.plist">📲 Download</a>
+- **Maple** 600 (119303) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/YandexMusic/Info.plist">📲 Download</a>
 
 - **Instagram** 271.1 (449456748) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/RocketInstagram/Info.plist">📲 Download</a>
 
@@ -15,6 +15,8 @@
 - **VK** 7.38 (3275) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/VKReborn/Info.plist">📲 Download</a>
 
 - **Rosbank** 4.11.0 (26.0) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/rosbank/Info.plist">📲 Download</a>
+
+- **TCSMBiPhone** 6.13.5 (613553) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/TINKOFF/Info.plist">📲 Download</a>
 
 - **WhatsApp** 23.2.75 (441749693) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/WhatsAppWatusi/Info.plist">📲 Download</a>
 
