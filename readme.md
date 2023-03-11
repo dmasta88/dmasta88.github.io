@@ -4,9 +4,15 @@
 
 - **Авито Дубликат** 142.0 (1671178035) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/dublicateavito/Info.plist">📲 Download</a>
 
+- **YouTube** 18.01.2 (18.01.2) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/YouTube Reborn/Info.plist">📲 Download</a>
+
 - **SBOL** 13.0.2 (11) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/sbol/Info.plist">📲 Download</a>
 
+- **Facebook** 404.0 (450033201) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/FaceBook Wolf/Info.plist">📲 Download</a>
+
 - **Maple** 600 (119303) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/YandexMusic/Info.plist">📲 Download</a>
+
+- **YouTube** 18.08.1 (18.08.1) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/uYouPlus/Info.plist">📲 Download</a>
 
 - **Instagram** 271.1 (449456748) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/RocketInstagram/Info.plist">📲 Download</a>
 
@@ -14,7 +20,11 @@
 
 - **VK** 7.38 (3275) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/VKReborn/Info.plist">📲 Download</a>
 
+- **KinoHome** 2.2.0 (1) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/KinoHome/Info.plist">📲 Download</a>
+
 - **Rosbank** 4.11.0 (26.0) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/rosbank/Info.plist">📲 Download</a>
+
+- **Instagram** 182.0 (282525093) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/Instagram Rhino/Info.plist">📲 Download</a>
 
 - **TCSMBiPhone** 6.13.5 (613553) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/TINKOFF/Info.plist">📲 Download</a>
 
