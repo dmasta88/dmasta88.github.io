@@ -36,5 +36,9 @@
 
 - **РСХБизнес** 3.4.13 (3.4.13) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/rshbbuisiness/Info.plist">📲 Download</a>
 
+- **SberbankApp** 12.15.0 (245) | Сбер Онлайн <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/Sberbank/Info.plist">📲 Download</a>
+
+Оригинальный банковский клиент удаленного из App Store приложения Сбербанка
+
 - **Aeroflot** 4.10.2 (39704) <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/dmasta88/dmasta88.github.io/master/apps/aeroflot/Info.plist">📲 Download</a>
 
